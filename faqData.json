@@ -1,0 +1,23 @@
+[
+    {
+      "intent": "greet",
+      "questions": ["hello", "hi", "hey there", "good morning"],
+      "answer": "Hello! Welcome to GetStartTec. How can I help you today?"
+    },
+    {
+      "intent": "ask_services",
+      "questions": ["what services do you offer?", "what can you do?", "services?"],
+      "answer": "We offer Web Development, Mobile Apps, Digital Marketing, and Cloud Consulting."
+    },
+    {
+      "intent": "ask_pricing",
+      "questions": ["how much does web development cost?", "what is your pricing?", "rate for a website?"],
+      "answer": "Our pricing starts at ₹20,000 depending on your requirements. Let's talk more!"
+    },
+    {
+      "intent": "ask_contact",
+      "questions": ["how can I contact you?", "give me your number", "contact details?"],
+      "answer": "You can reach us at +91-98765-43210 or hello@getstarttec.com"
+    }
+  ]
+  
