@@ -62,6 +62,7 @@ import os
 from google import genai
 from google.genai import types
 
+
 # Initialize the Gemini Client
 client = genai.Client(api_key="AIzaSyDJzMMz-ji77C0E8H6dJEMo6kOWwnxYuls")
 
