@@ -131,6 +131,7 @@ async def ask_question(data: QuestionRequest):
     response = ask_gemini(data.question)
     return {"response": response}
 
+
 # 🚀 Run either CLI chat or FastAPI based on command line
 if __name__ == "__main__":
     import sys
